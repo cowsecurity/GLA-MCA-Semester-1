@@ -1,5 +1,5 @@
 ## Topics for Unit 1 Examinations
-- Basic organisation of computers
+### Basic organisation of computers
 
 Computer organization refers to the way a computer's hardware components are structured and interconnected to perform various tasks efficiently. It encompasses the design and arrangement of a computer's central processing unit (CPU), memory, input/output devices, and other essential components. Here is a basic overview of the organization of a computer:
 
@@ -51,7 +51,32 @@ Computer organization refers to the way a computer's hardware components are str
 
 Computer organization principles are essential for computer architects and engineers to design efficient and effective computer systems. Understanding these basic components and their interactions is fundamental to computer science and engineering.
 
-- Micro Computer 
+### Micro Computer 
+
+A microcomputer, often simply referred to as a "micro," is a type of small-scale computer that typically consists of a single microprocessor chip (CPU), memory, input/output (I/O) interfaces, and storage. These computers are designed for individual use and are much smaller and less powerful than mainframe and minicomputers. Microcomputers are what most people think of when they hear the term "computer" because they are commonly used for personal and business purposes. Here are some key characteristics and examples of microcomputers:
+
+1. **Size:** Microcomputers are small and compact, making them suitable for desktop or portable use. They can easily fit on a desk or be carried around.
+
+2. **Processor:** They use microprocessors as their central processing unit (CPU), which is responsible for executing instructions and performing calculations. Examples of microprocessors include those made by Intel, AMD, and ARM.
+
+3. **Memory:** Microcomputers have both volatile memory (RAM) for temporary data storage and non-volatile memory (storage devices like hard drives or SSDs) for long-term data storage.
+
+4. **Operating System:** They typically run operating systems like Windows, macOS, Linux, or mobile operating systems (e.g., Android or iOS), which provide a user-friendly interface for running software applications.
+
+5. **Applications:** Microcomputers are used for a wide range of applications, including word processing, web browsing, gaming, multimedia, programming, and more. They can be customized with software to suit various needs.
+
+6. **Examples:** Some common examples of microcomputers include:
+   - **Desktop Computers:** Traditional personal computers that sit on a desk and are commonly used in homes and offices.
+   - **Laptop Computers:** Portable computers with a built-in screen, keyboard, and touchpad or pointing device.
+   - **Tablets:** Compact, touchscreen-based devices that are often used for browsing, media consumption, and mobile apps.
+   - **Smartphones:** Highly portable, pocket-sized devices that combine phone, computer, and communication functions.
+
+7. **Connectivity:** Microcomputers are equipped with various ports and wireless capabilities for connecting to the internet, external devices (e.g., printers, monitors), and networks.
+
+8. **User Interface:** They provide user-friendly interfaces for interaction, such as graphical user interfaces (GUIs) with icons, windows, and menus.
+
+Microcomputers are versatile and widely used for everyday computing tasks, ranging from word processing and email to web browsing and entertainment. They have become an integral part of modern life, serving as personal productivity tools, communication devices, and entertainment hubs.
+
 - Macro Computer
 - Super Computer
 - System Bus and Interconnection
